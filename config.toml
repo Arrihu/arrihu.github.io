@@ -1,4 +1,4 @@
-baseURL = "https://arrihu.github.io/arrihu-website/"
+baseURL = "https://arrihu.github.io/"
 title = "Arrihu Archery"
 
 theme = "puppet"
