@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/subdir"
+baseURL = "https://arrihu.github.io/arrihu-website/"
 title = "Arrihu Archery"
 
 theme = "puppet"
