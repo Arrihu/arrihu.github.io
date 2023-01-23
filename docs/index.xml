@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arrihu Archery</title>
-    <link>http://localhost:1313/subdir/</link>
+    <link>https://arrihu.github.io/arrihu-website/</link>
     <description>Recent content on Arrihu Archery</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:1313/subdir/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://arrihu.github.io/arrihu-website/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

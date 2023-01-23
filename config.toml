@@ -4,6 +4,8 @@ title = "Arrihu Archery"
 theme = "puppet"
 themesDir = "./themes"
 
+publishDir = "./docs"
+
 copyright = ""
 paginate = 3
 languageCode = "en"
