@@ -1,7 +1,7 @@
 ---
 title: "Cara Mudah Format Excel File Group"
 date: 2022-12-06T17:20:42+08:00
-draft: true
+draft: false
 ---
 
 ## Seorang acher mengaitkan anak panah pada string busur, kemudian menariknya ke arah belakang dengan kuat
