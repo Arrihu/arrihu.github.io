@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en"
-title = "Blogophonic"
-author = "Formspree"
+title = "Arrihu Archery"
+author = "arrihuarchery"
 description = "A modern, beautiful, and easily configurable blog theme for Hugo."
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -15,6 +15,8 @@ footnoteReturnLinkContents = "&#8617;" # ↩
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
 paginate = 3
 preserveTaxonomyNames = true
+
+publishDir = "./docs"
 
 [params]
   orgName = "Formspree"
